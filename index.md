@@ -2,5 +2,5 @@
 layout: default 
 ---
 
-# OpenScienSE 2022
+## OpenScienSE 2022
 

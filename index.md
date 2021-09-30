@@ -2,5 +2,7 @@
 layout: default 
 ---
 
-## OpenScienSE 2022
+|[home](./index.md)|cfp|committees|
+
+# OpenScienSE 2022
 
